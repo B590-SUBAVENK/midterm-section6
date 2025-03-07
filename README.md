@@ -27,7 +27,7 @@ The application integrates Firebase Authentication for user logins, coupled with
 
 Below is a short recording showing the main user paths:
 
-![Video Walkthrough](WalkThrough.gif)
+![Video Walkthrough](Walkthrough.gif)
 
 During the walkthrough, you will see:
 - User login
